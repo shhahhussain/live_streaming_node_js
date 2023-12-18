@@ -1,6 +1,6 @@
 # Basic-App-Structure
 
-Image Background Remover
+Node js live streaming 
 
 ## Pre requisites
 
