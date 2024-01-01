@@ -26,4 +26,14 @@ module.exports = {
       res.internalError(error);
     }
   },
+  liveStreaming:async(req,res)=>{try {
+    
+
+    res.success({message:"hey"})
+
+  } catch (error) {
+    res.internalError(error)
+  }
+
+  }
 };
